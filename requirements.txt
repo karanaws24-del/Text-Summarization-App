@@ -1,1 +1,3 @@
-
+python-dotenv  # load environment variables from .env file
+groq        # llm api key
+streamlit   # web ui
